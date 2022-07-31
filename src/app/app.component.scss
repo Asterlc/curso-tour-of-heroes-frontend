@@ -1,0 +1,11 @@
+$title-bg: #3f51b5;
+$title-text: #ffffff;
+
+.content {
+    margin: 20px;
+}
+
+mat-toolbar {
+    background: $title-bg;
+    color: $title-text;
+}
